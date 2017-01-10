@@ -28,10 +28,6 @@ ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
 
-p {
- word-wrap: break-word;
-   width: 200px; 
-}
 /**
  * Images
  */
@@ -45,6 +41,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 400; }
 
+p {width: 300px}
 
 /**
 * Links
@@ -79,7 +76,7 @@ a {
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
-  padding-left: 30px; }
+  padding-left: 30px;}
 
 
 .site-title {
