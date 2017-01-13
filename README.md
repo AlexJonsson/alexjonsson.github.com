@@ -4,7 +4,7 @@ This is a personal website for my blogging and professional exposure.
 
 ## Code Example
 
-The library will house all necessary components needed to create a static website the allows me to occasionally post about projects or personal milestones, along with CV info and ways to contact me.
+The library will house all necessary components needed to create a static website that allows me to occasionally post about projects or personal milestones, along with CV info and ways to contact me.
 
 ## Motivation
 
