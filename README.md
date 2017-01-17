@@ -1,6 +1,7 @@
 ## Synopsis
 
-This is a personal website for my blogging and professional exposure.
+This is a personal website for Alexander Jonsson. The audience for this website are both friends and professionals seeking to assess my professional skills. The blog section will mostly encompass data projects I find interesting, the resume section outlines my past professional and educational history, and the home page and footers intend to link everyone relevant social and professional profiles.
+
 
 ## Code Example
 
@@ -24,7 +25,7 @@ Web exposure is an awesome way to make myself known. I have wanted to make a web
 
 ## Contributors
 
-Alex Jonsson
+Alexander Jonsson
 
 ## License
 
