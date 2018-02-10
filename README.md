@@ -1,32 +1,31 @@
 ## Synopsis
 
-This is a personal website for Alexander Jonsson. The audience for this website are both friends and professionals seeking to assess my professional skills. The blog section will mostly encompass data projects I find interesting, the resume section outlines my past professional and educational history, and the home page and footers intend to link everyone relevant social and professional profiles.
-
+Congrats, you looked this close at my code. Damn. I'm honored.
 
 ## Code Example
 
-The library will house all necessary components needed to create a static website that allows me to occasionally post about projects or personal milestones, along with CV info and ways to contact me.
+<pseudocode>
 
 ## Motivation
 
-Web exposure is an awesome way to make myself known. I have wanted to make a website for a long time, and recently had more time on my hands to implement this goal.
+Not sure. But then I could ask you the same thing for reading this far.
 
 ## Installation
 
-
+Trick question.
 
 ## API Reference
 
-
+Copy-pasta for some IG add on
 
 ## Tests
 
-
+Boy do I need to practice the reactive design principles
 
 ## Contributors
 
-Alexander Jonsson
+Me, Myself, and I.
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+That's why you're here! Just let me know if I need to add license verbage by emailing me: alexander.t.jonsson@gmail.com. Cheers!
