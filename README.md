@@ -4,7 +4,7 @@ Congrats, you looked this close at my code. Damn. I'm honored.
 
 ## Code Example
 
-<pseudocode>
+< pseudocode />
 
 ## Motivation
 
