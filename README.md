@@ -1,6 +1,6 @@
 ## Synopsis
 
-Congrats, you looked this close at my code. Damn. I'm honored.
+Congrats, you looked this close at my code. Damn. I'm honored
 
 ## Code Example
 
@@ -8,7 +8,7 @@ Congrats, you looked this close at my code. Damn. I'm honored.
 
 ## Motivation
 
-Not sure. But then I could ask you the same thing for reading this far.
+Not sure. But then I could ask you the same thing for reading this far
 
 ## Installation
 
@@ -29,3 +29,5 @@ Me, Myself, and I.
 ## License
 
 That's why you're here! Just let me know if I need to add license verbage by emailing me: alexander.t.jonsson@gmail.com. Cheers!
+
+https://www.youtube.com/watch?v=9yVOd9TXNks
