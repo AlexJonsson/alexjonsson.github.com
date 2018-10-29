@@ -172,14 +172,14 @@ body {
 @media only screen and (max-width: 720px) {
   .site-title {
     font-size: 30px;
-    margin-top: 15px; }
+    margin-top: 5px; }
 
   .site-description {
     font-size: 10px; } }
 @media only screen and (min-width: 721px) {
   .site-title {
     font-size: 60px;
-    margin-top: 30px; }
+    margin-top: 10px; }
 
   .site-description {
     font-size: 14px; } }
