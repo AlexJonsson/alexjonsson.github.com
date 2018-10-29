@@ -7,10 +7,6 @@ html {
 body {
   margin: 0; }
 
-.twitter-timeline {
-  margin: auto;
-} 
-  
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
@@ -135,10 +131,6 @@ body {
   color: #111;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
-
-.twitter-timeline {
-  margin-left: 401px;
-}
 
 .wrapper {
   max-width: 740;
